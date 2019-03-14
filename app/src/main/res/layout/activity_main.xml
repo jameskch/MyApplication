@@ -27,6 +27,7 @@
 
     <Button
         android:id="@+id/button"
+        style="@style/text.button"
         android:layout_width="117dp"
         android:layout_height="59dp"
         android:layout_marginStart="8dp"
@@ -36,12 +37,12 @@
         android:layout_marginRight="8dp"
         android:layout_marginBottom="8dp"
         android:onClick="bigger"
-        android:text="Button"
+        android:text="@string/text.button"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView"
-        app:layout_constraintVertical_bias="0.679" />
+        app:layout_constraintVertical_bias="0.669" />
 
     <ImageView
         android:id="@+id/imageView2"

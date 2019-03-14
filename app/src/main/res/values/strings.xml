@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="text.hellw">Hello world!</string>
+    <string name="text.button">bigger</string>
 </resources>

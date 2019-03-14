@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="text.hellw">哈囉 世界!</string>
+    <string name="text.button">放大</string>
 </resources>
